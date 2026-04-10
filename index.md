@@ -1,4 +1,6 @@
-  # Privacy Policy for Ory
+  ---
+  title: Privacy Policy
+  ---
 
   **Last updated: 10 April 2026**
 
